@@ -6,7 +6,7 @@ Full-stack software engineer with several years of interdisciplinary work experi
 [https://danielburger.online](https://danielburger.online) </br>
 [public@danielburger.online](mailto:public@danielburger.online)
 
-**My social media** </br>
+**Social media** </br>
 <https://medium.com/@danburonline> </br>
 <https://linkedin.com/in/danburonline> </br>
 <https://instagram.com/danburonline> </br>
