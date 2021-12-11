@@ -12,3 +12,5 @@ Full-stack software engineer with several years of interdisciplinary work experi
 <https://instagram.com/danburonline> </br>
 <https://facebook.com/danburonline> </br>
 <https://twitter.com/danburonline> </br>
+
+[![wakatime](https://wakatime.com/badge/user/4ffe7ebe-8b8e-4af2-a5f8-d3cd028f3726.svg)](https://wakatime.com/@4ffe7ebe-8b8e-4af2-a5f8-d3cd028f3726)
