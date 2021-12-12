@@ -8,7 +8,7 @@ Full-stack software engineer with several years of interdisciplinary work experi
 [https://danielburger.online](https://danielburger.online) </br>
 [public@danielburger.online](mailto:public@danielburger.online)
 
-[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Daniel_Burger10)
+[![Academia](https://img.shields.io/badge/Academia-0c3bc9?style=for-the-badge&logo=academia&logoColor=white)](https://independent.academia.edu/danburonline)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danburonline)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danburonline)
 </br>
