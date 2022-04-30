@@ -9,7 +9,7 @@ Full-stack software engineer with several years of interdisciplinary work experi
 [public@danielburger.online](mailto:public@danielburger.online)
 
 [![Academia](https://img.shields.io/badge/Academia-0c3bc9?style=for-the-badge&logo=academia&logoColor=white)](https://mdx.academia.edu/danburonline)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danburonline)
+[![Medium](https://img.shields.io/badge/Medium-1E1E1E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danburonline)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/DanielBurgerOnline)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danburonline)
