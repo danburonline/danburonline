@@ -2,7 +2,7 @@
 
 [![WakaTime](https://wakatime.com/badge/user/4ffe7ebe-8b8e-4af2-a5f8-d3cd028f3726.svg)](https://wakatime.com/@danburonline)</br>
 
-Full-stack software engineer with several years of interdisciplinary work experience in a technologically diverse background dedicated to clean code and lean architectures. Currently, I'm developing brain-machine interface software at [IDUN Technologies](https://iduntechnologies.ch) and studying web development with a focus on spatial computing at [Middlesex University](https://www.mdx.ac.uk). In my spare time, I enjoy experimenting with machine learning and reading about neuroscience, philosophy and physics.
+Full-stack software engineer with several years of interdisciplinary work experience in a technologically diverse background dedicated to clean code and lean architectures. Currently, I'm developing brain-computer interface software at [IDUN Technologies](https://iduntechnologies.ch) and studying web development with a focus on spatial computing at [Middlesex University](https://www.mdx.ac.uk). In my spare time, I enjoy experimenting with machine learning and reading about neuroscience, philosophy and physics.
 
 **Contact me**</br>
 [https://danielburger.online](https://danielburger.online) </br>
