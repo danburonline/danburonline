@@ -5,7 +5,7 @@
 Full-stack software engineer with several years of interdisciplinary work experience in a technologically diverse background dedicated to clean code and lean architectures. Currently, I'm developing brain-computer interface software at [IDUN Technologies](https://iduntechnologies.ch) and studying web development with a focus on spatial computing at [Middlesex University](https://www.mdx.ac.uk). In my spare time, I enjoy experimenting with machine learning and reading about neuroscience, philosophy and physics.
 
 **Contact me**</br>
-[https://danielburger.online](https://danielburger.online) </br>
+[danielburger.online](https://danielburger.online) </br>
 [public@danielburger.online](mailto:public@danielburger.online)
 
 [![Academia](https://img.shields.io/badge/Academia-0c3bc9?style=for-the-badge&logo=academia&logoColor=white)](https://mdx.academia.edu/danburonline)
