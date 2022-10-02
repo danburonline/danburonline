@@ -8,7 +8,7 @@ Versatile software engineer with interdisciplinary professional experience in a 
 [danielburger.online](https://danielburger.online) </br>
 [public@danielburger.online](mailto:public@danielburger.online)
 
-[![Academia](https://img.shields.io/badge/Academia-0c3bc9?style=for-the-badge&logo=academia&logoColor=white)](https://mdx.academia.edu/danburonline)
+[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white](https://www.researchgate.net/profile/Daniel-Burger-10)
 [![Medium](https://img.shields.io/badge/Medium-1E1E1E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danburonline)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/DanielBurgerOnline)
 </br>
