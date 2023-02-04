@@ -1,4 +1,4 @@
-# Grüezi world
+# About me
 
 [![WakaTime](https://wakatime.com/badge/user/4ffe7ebe-8b8e-4af2-a5f8-d3cd028f3726.svg)](https://wakatime.com/@danburonline)</br>
 
