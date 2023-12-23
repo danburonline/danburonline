@@ -1,4 +1,4 @@
-Versatile software engineer with interdisciplinary professional experience in a technologically diverse environment dedicated to clean code and lean architectures. I am currently developing brain-computer interface software at [IDUN Technologies](https://iduntechnologies.com) and studying machine learning with a focus on spatial computing in a handful of boot camps. In my spare time, I enjoy maths and reading about neuroscience, physics and quantum computing.
+I’m a versatile software engineer with interdisciplinary professional experience in a technologically diverse environment dedicated to clean code and lean architectures. Currently, I’m developing neuroinformatics software at the [Blue Brain Project](https://www.epfl.ch/research/domains/bluebrain), running AI on brain organoids at [FinalSpark](https://finalspark.com) and studying applied neuroscience at [King’s College London](https://www.kcl.ac.uk). Generally, I’m always interested in alternative computing paradigms, such as quantum, cognitive, and spatial computing.
 
 **Contact me**</br>
 [danielburger.online](https://danielburger.online) </br>
