@@ -3,5 +3,3 @@ I’m a versatile software engineer with interdisciplinary professional experie
 **Contact me**</br>
 [danielburger.online](https://danielburger.online) </br>
 [public@danielburger.online](mailto:public@danielburger.online)
-
-[![https://codesandbox.io/u/danburonline](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://codesandbox.io/u/danburonline)
